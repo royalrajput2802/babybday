@@ -36,8 +36,8 @@ img {
 
 .birthdayCard {
     position: relative;
-    width: 450px;
-    height: 600px;
+    width: 250px;
+    height: 300px;
     cursor: pointer;
     transform-style: preserve-3d;
     transform: perspective(2500px);
